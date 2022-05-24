@@ -1,4 +1,4 @@
-# projet_document_structure
+# projet document structuré
 L'objectif de ce projet est de transformer trois fichiers d'otd à un site qu'on peut visualiser les documents bien structurés et on peut aussi chercher certaines informations dans les documents.
 
 Au début, j'ai dézippé les fichiers otd qui me permet de récupéré deux fichiers xml importants, le fichier content.xml et le fichier meta.xml.
